@@ -2,14 +2,14 @@
 
 ## Analysis Overview
 
-The purpose of this project is to use unsupervised machine learning to analyze a database of cryptocurrencies and create a report including the traded cryptocurrencies classified by group according to their features.
-This classification report could be used by an investment bank to propose a new cryptocurrency investment portfolio to its clients.
-We use the following methods for the analysis:
+The goal of this project is to utilise unsupervised machine learning to evaluate a cryptocurrency database and generate a report that categorises traded cryptocurrencies into groups based on their characteristics.
+An investment bank might utilise this classification report to propose a new bitcoin investment portfolio to its clients.
+For the analysis, we employ the following methods:
 
-- preprocessing the database,
-- reducing the data dimension using Principal Component Analysis,
-- clustering cryptocurrencies using K-Means,
-- visualizing classification results with 2D and 3D scatter plots.
+- Database preprocessing
+- Using Principal Component Analysis to reduce the data dimension
+- Using K-Means to cluster cryptocurrency
+- Using 2D and 3D scatter plots to visualise classification findings
 
 ## Results
 
